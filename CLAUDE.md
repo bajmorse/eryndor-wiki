@@ -355,21 +355,25 @@ This content is intended for publication.
 
 ---
 
-## Private Lore
+## GM-Only Lore
 
 Located under:
 
-dm/
+gm/
 
 Contains:
 
 * Campaign secrets
+* Storylines (current state, established truths, party knowledge, rumours, open questions, NPCs, related storylines, recent developments, consequences, uncommitted ideas)
+* Session notes
 * Future story arcs
 * Hidden factions
 * Villain plans
 * Cosmological truths
 
-Never expose DM information in public articles without explicit instruction.
+This directory is built only into the private GM site (gm.eldressa.fyi). The player build never reads it — the player Docker image's build stage never copies gm/ into its filesystem, so this is a physical guarantee, not just an access-control one.
+
+Never expose GM information in public (content/) articles without explicit instruction. GM pages may freely [[wikilink]] to content/ pages and to other gm/ pages.
 
 ---
 
