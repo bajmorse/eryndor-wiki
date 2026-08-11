@@ -1,0 +1,9 @@
+node_modules
+.quartz
+public
+public-gm
+.gm-build
+.git
+docs
+.github
+.vscode
