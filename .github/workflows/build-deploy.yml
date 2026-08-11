@@ -21,6 +21,7 @@ on:
       - Dockerfile.gm
       - nginx.conf
       - .dockerignore
+      - .github/workflows/build-deploy.yml
   workflow_dispatch:
 
 permissions:
