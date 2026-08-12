@@ -400,3 +400,73 @@ Highest Priority:
 5. Newly generated content
 
 New content should always preserve established canon whenever possible.
+
+---
+
+# Development & Deployment
+
+## Editing
+
+Edit Markdown directly under `content/` (player-facing) or `gm/`
+(GM-only). No build step is required to edit — Quartz reads both
+directories at build time, not edit time.
+
+To preview changes before pushing (there is no Node.js on the
+self-hosted Windows host, so this only works in Codespaces or another
+machine with Node 22):
+
+```
+npm run dev:player   # preview the player site, port 8080
+npm run dev:gm       # preview the GM site (content/ + gm/), port 8081
+```
+
+## Publishing a change
+
+```
+git add -A
+git commit -m "..."
+git push github main
+```
+
+Pushing to `main` is the entire deploy trigger:
+
+1. GitHub Actions (`.github/workflows/build-deploy.yml`) builds
+   `Dockerfile.player` and `Dockerfile.gm` and pushes both images to
+   GHCR (`ghcr.io/bajmorse/eryndor-wiki-player` /
+   `-gm`), tagged `latest`.
+2. Watchtower, running on the self-hosted Docker host
+   (`Stacks/eryndor/docker-compose.yml`), polls GHCR every 5 minutes
+   and recreates `eryndor-quartz-player`/`eryndor-quartz-gm` when a
+   new image is published.
+
+Typically a few minutes end to end. To force an immediate update
+instead of waiting on Watchtower's poll, run on the host:
+
+```
+cd path/to/Stacks/eryndor
+docker compose pull
+docker compose up -d
+```
+
+## Architecture invariant
+
+`Dockerfile.player` never copies `gm/` into its build context — GM
+content is physically absent from the player image and site, not just
+filtered out by config. Any change to how the player image is built
+must preserve this (no `COPY gm/` in `Dockerfile.player`, ever).
+
+The GM build merges `content/` + `gm/` via
+`scripts/prepare-gm-content.mjs` before running Quartz, so GM pages
+live under `/gm/...` and can `[[wikilink]]` to any page in either
+tree.
+
+## Where things live
+
+- GitHub: `bajmorse/eryndor-wiki` (private). GitLab
+  (`eldressa/eryndor`) still exists as a dormant backup, not kept in
+  sync.
+- Images: `ghcr.io/bajmorse/eryndor-wiki-player`,
+  `ghcr.io/bajmorse/eryndor-wiki-gm` (public packages).
+- Production: `wiki.eldressa.fyi` (host port 18090) and
+  `gm.eldressa.fyi` (host port 18091, Cloudflare Access-gated),
+  both behind the same Cloudflare Tunnel.
