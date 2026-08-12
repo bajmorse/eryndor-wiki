@@ -1,8 +1,8 @@
 ---
-title: GM Wiki
+title: GM Info
 ---
 
-# GM Wiki
+# GM Info
 
 This section is only built into the GM site. It contains everything in the player wiki plus GM-only material: storylines, session notes, NPC secrets, and unresolved questions.
 
