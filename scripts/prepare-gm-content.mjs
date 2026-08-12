@@ -2,10 +2,10 @@
 // Assembles the content tree the GM Quartz build reads from: every top-level
 // entry of content/ plus every top-level entry of gm/, linked side by side
 // via symlinks (falling back to a copy if symlinks aren't available). This
-// puts GM-only sections (e.g. gm/Party Info, gm/Session Info, gm/Gamemaster
-// Info) at the same sidebar level as content/'s World Info — see the
-// Explorer sortFn override in quartz.ts for the resulting nav order. The
-// player build never runs this script — it points Quartz straight at
+// puts gm/'s GM-only sections (e.g. Gamemaster Info) at the same sidebar
+// level as content/'s sections (World Info, Party Info, Session Info) — see
+// the Explorer sortFn override in quartz.ts for the resulting nav order.
+// The player build never runs this script — it points Quartz straight at
 // content/, so gm/ is physically absent from anything the player build
 // touches.
 import { existsSync, mkdirSync, readdirSync, rmSync, symlinkSync, statSync, cpSync } from "node:fs"

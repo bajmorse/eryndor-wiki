@@ -2,12 +2,13 @@ import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/conf
 import * as ExternalPlugin from "./.quartz/plugins"
 import type { ExplorerOptions } from "./.quartz/plugins"
 
-// Pins the top-level Explorer sidebar order: World Info first (from
-// content/), then the GM-only sections scripts/prepare-gm-content.mjs
-// merges in alongside it. Everything else keeps the plugin's default
-// (folders first, alphabetical) sort. Must be a self-contained function —
-// Explorer serializes it with .toString() and re-parses it client-side, so
-// it can't close over outer variables.
+// Pins the top-level Explorer sidebar order: World Info, Party Info, and
+// Session Info (all from content/, shown on both sites) followed by
+// Gamemaster Info (from gm/, GM-only — see
+// scripts/prepare-gm-content.mjs). Everything else keeps the plugin's
+// default (folders first, alphabetical) sort. Must be a self-contained
+// function — Explorer serializes it with .toString() and re-parses it
+// client-side, so it can't close over outer variables.
 const explorerSortFn: ExplorerOptions["sortFn"] = (a, b) => {
   const order = ["World Info", "Party Info", "Session Info", "Gamemaster Info"]
   const ai = order.indexOf(a.displayName ?? "")

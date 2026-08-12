@@ -458,10 +458,12 @@ must preserve this (no `COPY gm/` in `Dockerfile.player`, ever).
 The GM build merges `content/` + `gm/` via
 `scripts/prepare-gm-content.mjs` before running Quartz: every
 top-level folder of both trees becomes its own top-level section of
-the GM site's sidebar (`World Info` from `content/`; `Party Info`,
-`Session Info`, `Gamemaster Info` from `gm/`), and pages can
-`[[wikilink]]` to any page in either tree. The Explorer sidebar order
-for these sections is pinned by a `sortFn` override in `quartz.ts`.
+the GM site's sidebar. `World Info`, `Party Info`, and `Session Info`
+live under `content/`, so they're shared and appear on both the
+player and GM sites; `Gamemaster Info` lives under `gm/` and is
+GM-only. Pages can `[[wikilink]]` to any page in either tree. The
+Explorer sidebar order for these sections is pinned by a `sortFn`
+override in `quartz.ts`.
 
 ## Where things live
 

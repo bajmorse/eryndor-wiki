@@ -1,8 +1,7 @@
 # GM site: builds from content/ + gm/ merged (see scripts/prepare-gm-content.mjs),
-# so shared pages stay at the same slugs as the player site and each
-# top-level gm/ folder (Party Info, Session Info, Gamemaster Info) becomes
-# its own top-level section, sitting alongside content/'s World Info. Pages
-# can [[wikilink]] to either tree.
+# so shared pages (World Info, Party Info, Session Info) stay at the same
+# slugs as the player site, and gm/'s GM-only top-level folder (Gamemaster
+# Info) sits alongside them. Pages can [[wikilink]] to either tree.
 FROM node:22-slim AS builder
 WORKDIR /usr/src/app
 
