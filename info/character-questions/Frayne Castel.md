@@ -15,6 +15,11 @@ This is the heaviest backstory of the five and already has real narrative weight
 - Where did the wandering take him? Anywhere that left a real mark — a place, a person, a job that changed him?
 - Did he travel alone the whole time, or fall in with anyone along the way?
 - What kept him going during those years — anger, grief, something to prove, nothing in particular? Was it a slow drift, or was he actively running from something the whole time?
+- His scars and bearing read as more than just a rough life — likely an officer in some military. Where did he serve? Options to put to him:
+  - **Skeldran** — a garrison officer guarding Greywatch and Northern Star-financed expeditions into the ruins. Isolating, attritional, the land and old horrors as much the enemy as any person.
+  - **Velkrand** — a free-city militia or mercenary company officer in a contested Goblin/Gnome mining district, decades after the Accord of Twin Hammers — a local flare-up, not the old Hundred-Year Rivalry reopened. Industrial, close-quarters, tunnel warfare.
+  - **Meridia** — a naval/marine officer patrolling the Meridian Isles against pirate kingdoms (not Nadris, which is a rival-not-enemy of Meridia). Boarding actions, island raids.
+  - **Hrothan** — an officer commanding an armed escort for a Northern Star trading post pushing into the tundra. Guarding a foothold, not colonizing — Hrothan has little patience for either.
 
 ## Landing in Sky-Bough
 
