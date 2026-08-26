@@ -12,6 +12,19 @@ At the end of every month, Sky-Bough hosts its martial arts tournament — tradi
 
 ## Established GM Truths
 
+- The tournament is not an old village tradition. [[Joe and the Bent Feather|Joe]] founded it after returning from his years away, inspired by fighting rings and by the way power struggles played out while he crewed aboard a pirate ship. He returned to find prominent villagers squabbling over who should represent Sky-Bough, joked "just fight for it," and the idea stuck — which is also why Joe specifically hosts it rather than the mayor or village elders.
+- "Representing Sky-Bough" as dignitary is mostly ceremonial. It carries no real judicial or political weight; the mayor still handles matters of actual consequence.
+- Joe is not rigging the tournament. The rigging rumour is false, and traces to a single disgruntled competitor from a past tournament who lost and blamed a fix rather than accept the loss — the same misattribution pattern as the ale shortage. No one meaningfully benefits from the rumour; it isn't a deliberate campaign.
+- The decline is genuinely multi-causal, several factors compounding together rather than one root cause: post-match drinks and sponsorship leaned on [[Skybound Pale Ale]], so the shortage took a real bite out of the event's draw; the same anxious mood souring the harvest and unsettling wildlife (see [[The Ancient Pact]]) has made a celebratory spectacle feel less appealing to a village on edge; the honor of representing Sky-Bough has started to feel smaller as attention and real influence drift toward [[The Mayor|the mayor]]'s foreign relationships; and beneath all of that, the tournament had simply been running long enough that some natural fatigue with the novelty had already set in before any of the rest started. No single cause would have tanked attendance this hard on its own — it's the pile-up that did it.
+- The first person to stop competing, and the origin of the tournament-rigging rumour, is the same person: Mossa Quickbrow, a villager of mixed Ribbet and Simiah heritage. Mixed heritage isn't vanishingly rare, but it's rare enough that Mossa has spent a lifetime feeling treated as an outsider — and that experience primed them to read an ordinary, clean loss as prejudice from the judges rather than a fair defeat. There was no actual bias; nothing about the match or the judging treated Mossa unfairly. Mossa genuinely believes otherwise, though, and refused to ever compete again. Their public insistence that they'd been cheated because of their heritage planted the first seed of doubt that made others less eager to compete too, well before the ale shortage, the mood, or the mayor's outsiders piled on. This isn't a scheme or a campaign — Mossa isn't lying, just wrong, and gains nothing from anyone else believing it either.
+- The tournament has been running for roughly a decade — since Joe returned to Sky-Bough and founded it. See [[Joe and the Bent Feather]].
+- The tournament is a simple no-holds-barred brawl — killing is strictly forbidden, but otherwise nearly anything goes. The exact format changes year to year: some years it's a bracketed one-on-one tournament, other years a free-for-all battle royale, and so on.
+- Eligibility is restricted to Sky-Bough residents of at least five years' standing, and only once they're of age by their own ancestry's standard — otherwise open to all ancestries.
+- Because of that residency requirement, nobody who could really be called an outsider has ever won — by the time someone qualifies to enter at all, they're already considered part of the village rather than a visitor.
+- The winner is decided purely by outcome, never judged — always resolved by knockout, whatever that year's format happens to be.
+- There has always been a winner sent out each month; the tournament has never once gone without one.
+- The mayor has no real say over who gets sent to represent Sky-Bough — Joe's tournament result is final. This has never caused friction, since the duty only ever covers matters the mayor doesn't consider important enough to handle herself.
+
 ## What the Party Knows
 
 Everything under Current State. See [[Full Session Notes]].
@@ -22,27 +35,10 @@ Some mutter that the shrinking field is no accident — that Joe uses the tourna
 
 ## Open Questions
 
-- Who actually founded the tournament, and how long has it been running?
-- Why does Joe specifically host it, rather than the mayor or village elders?
-- What does "representing Sky-Bough" as dignitary actually involve in practice?
-- Has a past champion's conduct as dignitary ever caused real consequences for the village?
-- What are the tournament's actual rules — is it purely physical combat, or does it test other skills?
-- Who is eligible to enter? Is it open to all ancestries and ages, or restricted somehow?
-- Has anyone from outside Sky-Bough ever won?
-- How is the winner actually chosen — pure combat outcome, judged, or something else?
-- When did attendance begin declining, and does that timing line up with anything else — the failed sacrifice, the ale shortage, the mayor's foreign guests?
-- Who specifically stopped participating first, and why?
-- Is Joe actually influencing outcomes, or is this rumour simply attaching itself to him the same way the ale shortage did?
-- If Joe is influencing outcomes, is he doing it to control who negotiates with outside villages, or for some other reason?
-- Who benefits most from spreading the rumour that Joe rigs the tournament?
-- Has a past champion ever clashed publicly with the mayor over how they represented Sky-Bough?
-- What happens to Sky-Bough's standing with neighbouring villages if no clear champion emerges some month?
-- Does the mayor have any say over who is sent, or is Joe's tournament the final word?
-- What would it take to restore interest in the tournament?
-
 ## NPCs Involved
 
 - [[Joe and the Bent Feather|Joe]]
+- Mossa Quickbrow
 
 ## Related Storylines
 
