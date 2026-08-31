@@ -20,3 +20,7 @@ This section is only built into the GM site. It contains campaign secrets: story
 - [[The Sea People]]
 - [[The Forgotten Hero and the Tomb]]
 - [[Sir Testalot and the Testers]]
+
+## Characters
+
+Session-prep questions for each player character — see [[Characters]].

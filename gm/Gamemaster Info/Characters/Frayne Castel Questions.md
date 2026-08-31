@@ -1,3 +1,7 @@
+---
+title: Frayne Castel — Questions
+---
+
 # Frayne Castel — Questions
 
 Human Slayer. His party page currently says he's "from Goldhorn Crossing," a settlement destroyed in a territorial conflict that killed his family — **but Goldhorn Crossing is still standing.** He actually grew up in a smaller village near it, and that village is what was destroyed. Party Info and the Session 0 notes need updating to match once we've nailed this down, including a name for the destroyed village. Dark leather and chainmail, white skull painted across his chest, hand crossbow and long dagger.

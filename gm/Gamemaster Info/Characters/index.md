@@ -1,6 +1,10 @@
-# Session Prep — Character Questions
+---
+title: Characters
+---
 
-Working document, not published to either site. One file per player character, holding open-ended questions to ask before the next session — aimed at fleshing out backstory, personality, and each character's place in Sky-Bough Village and the wider world.
+# Characters
+
+Session-prep questions for each player character — open-ended prompts to ask before the next session, aimed at fleshing out backstory, personality, and each character's place in Sky-Bough Village and the wider world. See [[Party Info]] for the characters as currently established.
 
 These are prompts for conversation, not a form to fill out. Pick whichever land best for a given player rather than running through the whole list.
 
@@ -10,11 +14,11 @@ Source context: [[content/Session Info/Session 0/Full Session Notes]] and each c
 
 ## Files
 
-- [[Aangry Mank]]
-- [[Finnegan Endercast]]
-- [[Frayne Castel]]
-- [[Nyx Ashwisk]]
-- [[Zella Ironstone]]
+- [[Aangry Mank Questions|Aangry Mank]]
+- [[Finnegan Endercast Questions|Finnegan Endercast]]
+- [[Frayne Castel Questions|Frayne Castel]]
+- [[Nyx Ashwisk Questions|Nyx Ashwisk]]
+- [[Zella Ironstone Questions|Zella Ironstone]]
 
 ## Group & Friendship (ask any of them)
 

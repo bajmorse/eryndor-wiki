@@ -1,3 +1,7 @@
+---
+title: Aangry Mank — Questions
+---
+
 # Aangry Mank — Questions
 
 Simiah Beastbound Ranger, native of Sky-Bough Village. Bonded to [[Buffa-lo Bill]]. Grizzled, white-maned, glowing blue tattoos across scalp and forearm, feathers and beads at wrist and belt.

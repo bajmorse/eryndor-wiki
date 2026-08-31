@@ -56,4 +56,4 @@ The simple version making the rounds inland is "the Sea People are attacking us.
 
 Start developing this thread from "what are they afraid of?" rather than "why are they attacking?"
 
-- Frayne Castel's military service background is still undecided and deliberately left for him to choose (see his character-questions file). Several of the options on offer would let his old crew turn out to have been part of this displaced wave — not the cause of the crisis, but caught up in feeding it. Don't write this in until his player actually picks a branch.
+- Frayne Castel's military service background is still undecided and deliberately left for him to choose (see [[Frayne Castel Questions|his character questions]]). Several of the options on offer would let his old crew turn out to have been part of this displaced wave — not the cause of the crisis, but caught up in feeding it. Don't write this in until his player actually picks a branch.
