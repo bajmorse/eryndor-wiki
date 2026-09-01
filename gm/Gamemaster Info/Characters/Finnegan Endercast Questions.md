@@ -1,8 +1,8 @@
 ---
-title: Finnegan Endercast — Questions
+title: Finnegan Endercast
 ---
 
-# Finnegan Endercast — Questions
+# Finnegan Endercast
 
 Infernis War Wizard, longtime resident of Sky-Bough (not native). Violet skin, gold-banded horns, dark hair, spellbook and scrollcase, deep red and black robes.
 

@@ -1,8 +1,8 @@
 ---
-title: Nyx Ashwisk — Questions
+title: Nyx Ashwisk
 ---
 
-# Nyx Ashwisk — Questions
+# Nyx Ashwisk
 
 Katari Hedge Witch and apothecary, traveling with a nomadic Katari band that circles the Heartwood. Regularly passes through Sky-Bough — one of her favourite stops, partly for the company and substantially for the Skybound Pale Ale. Bonded to her ferret familiar, [[Snowberry]].
 

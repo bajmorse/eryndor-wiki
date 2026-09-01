@@ -1,8 +1,8 @@
 ---
-title: Zella Ironstone — Questions
+title: Zella Ironstone
 ---
 
-# Zella Ironstone — Questions
+# Zella Ironstone
 
 Half-Infernis, half-Giant Lycan Blood Hunter, born in the Frostfang Mountains. Wanders Ilyndor extensively and returns to Sky-Bough whenever her travels bring her close by. Pale blue skin, curling horns, red hair in braids, scarred fur-trimmed armor, wolf-hilted swords.
 
