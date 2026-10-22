@@ -1,1 +1,5 @@
 * text=auto eol=lf
+
+# Batch files are parsed by cmd.exe, which wants CRLF.
+*.cmd text eol=crlf
+*.bat text eol=crlf

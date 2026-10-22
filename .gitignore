@@ -13,3 +13,6 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .claude/settings.local.json
+
+# Session audio recordings (too large for git)
+recordings/

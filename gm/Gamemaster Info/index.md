@@ -28,3 +28,11 @@ This section is only built into the GM site. It contains campaign secrets: story
 ## Characters
 
 Session-prep questions for each player character — see [[Characters]].
+
+## Sessions
+
+GM-side notes, continuity flags, and follow-ups for each session — see [[Sessions]].
+
+## Players
+
+Who plays whom, plus how session recordings and transcripts are organised — see [[Players]].
